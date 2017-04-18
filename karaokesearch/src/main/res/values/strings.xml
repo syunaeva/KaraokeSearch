@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KaraokeSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">logout</string>
+    <string name="serverAddress">serverAddress</string>
+    <string name="search">Search song</string>
+    <string name="username_string">What is your name?</string>
+    <string name="enter_username_hint">Enter your name</string>
+    <string name="search_hint">type song name</string>
+    <string name="singer_hint">type letters to open singers list</string>
+    <string name="login_string">OK</string>
+    <string name="browse">Browse</string>
+</resources>
